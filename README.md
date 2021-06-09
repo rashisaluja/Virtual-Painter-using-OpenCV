@@ -20,4 +20,4 @@ up.
 6. If only index finger is up : Drawing mode
 
 ## Demo
-[link]()
+![link](https://github.com/rashisaluja/Virtual-Painter-using-OpenCV/blob/main/Virtual%20Painter%20using%20OpenCV/Images/virtual-painter-gif.gif)
